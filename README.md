@@ -35,6 +35,9 @@ ElectConnect **reimagines elections** to focus on **people, not money**.
 👉 **Contribute:** If you're a developer, election expert, or advocate, **fork this repository & suggest improvements!**  
 👉 **Share the Vision:** Spread the word and bring ElectConnect to **your state or community**.  
 
+📌 **ElectConnect is a completely open-source initiative. This project does not accept or collect any money—it is freely available for anyone to use, adapt, and implement.**  
+📌 **Any forked versions must remain freely accessible under the same Creative Commons Attribution-ShareAlike 4.0 license. No one is permitted to privatize, restrict, or financially exploit this project while denying access to others.**  
+
 📌 **Together, we can create a truly democratic system.**  
 
 ---
@@ -45,4 +48,6 @@ ElectConnect **reimagines elections** to focus on **people, not money**.
 
 🌎 **ElectConnect is an open-source movement for the future of democracy.**  
 📢 **Let's make elections fair, transparent, and accessible for all.**
+
+
 
