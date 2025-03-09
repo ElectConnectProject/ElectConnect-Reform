@@ -32,6 +32,7 @@ ElectConnect **reimagines elections** to focus on **people, not money**.
 ## 📝 Get Involved  
 👉 **Read the E-Book:** [Download Here](https://github.com/ElectConnectProject/ElectConnect-Reform/blob/main/ElectConnect%20E-Book_%20A%20Vision%20for%20Revolutionizing%20the%20US%20Electoral%20Process.pdf)  
 👉 **Read the State-Level Implementation Addendum:** [Download Here](https://github.com/ElectConnectProject/ElectConnect-Reform/blob/main/%F0%9F%93%9C%20ElectConnect%20Addendum_%20State-Level%20Implementation%20%26%20Strategy.pdf)  
+👉 **Read the Sample Letter to Elected Officials:** [Download Here](https://github.com/ElectConnectProject/ElectConnect-Reform/blob/main/%F0%9F%93%9C%20ElectConnect%20Sample%20Letter%20to%20Elected%20Officials.pdf)  
 👉 **Join the Discussion:** Use the "Issues" tab to share ideas & feedback.  
 👉 **Contribute:** If you're a developer, election expert, or advocate, **fork this repository & suggest improvements!**  
 👉 **Share the Vision:** Spread the word and bring ElectConnect to **your state or community**.  
@@ -49,7 +50,5 @@ ElectConnect **reimagines elections** to focus on **people, not money**.
 
 🌎 **ElectConnect is an open-source movement for the future of democracy.**  
 📢 **Let's make elections fair, transparent, and accessible for all.**
-
-
 
 
